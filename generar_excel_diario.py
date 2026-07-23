@@ -28,10 +28,10 @@ UMBRAL_DESCONEXION_MINUTOS = 5
 APLICACIONES = {
     "Chimbarongo": "f06fa6b1-1ef5-4558-88bf-3998c36bf04b",
     "Cono Sur": "806685de-08e6-42de-b274-3b81b4531cee",
+    "Limari": "9c7fa847-635c-42ac-96c8-82b2259b0306",
     "Nueva Aurora": "c4a0d671-07e1-4f1d-9617-cc2e8b1504b3",
     "Puente Alto": "7b7d81ae-16c4-44bc-abf3-589135c57979",
     "Vespucio": "f447c27d-8f44-48d2-b6a0-11e4fbea62a3",
-    # "Limari" queda fuera: no tiene dispositivos registrados en ChirpStack todavía.
 }
 
 ENTIDAD_A_DEVEUI = {
@@ -51,6 +51,12 @@ ENTIDAD_A_DEVEUI = {
     "Cono Sur|Estación Parabólica 1 (Principal)": "ac1f09fffe12849d",
     "Cono Sur|Subestación 4": "ac1f09fffe128476",
     "Cono Sur|EAG-York 2019": "ac1f09fffe128493",
+    "Cono Sur|Subestación 1 Fotovoltaica": "ac1f09fffe1b3248",
+    "Cono Sur|Subestación 2 Fotovoltaica": "ac1f09fffe1b3248",
+    "Limari|Energía EAG-0019 (Climaveneta)": "ac1f09fffe1b32b3",
+    "Limari|Energía EAG-0047": "ac1f09fffe1b32ce",
+    "Limari|Subestación 1": "ac1f09fffe11ea53",
+    "Limari|Subestación 2": "ac1f09fffe11ea4d",
     "Nueva Aurora|Medidor/Sensor Nivel": "ac1f09fffe1ce70f",
     "Nueva Aurora|Subestación 4": "ac1f09fffe1b32a0",
     "Nueva Aurora|York": "ac1f09fffe1ce744",
