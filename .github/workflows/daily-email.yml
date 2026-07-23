@@ -1,0 +1,42 @@
+name: Enviar Excel diario ChirpStack
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    # 14:00 UTC = 10:00 Chile (horario estándar, UTC-4).
+    # Si rige horario de verano en Chile (UTC-3), cambiar a "0 13 * * *".
+    - cron: "0 14 * * *"
+
+jobs:
+  generar-y-enviar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: pip install chirpstack-api requests openpyxl
+
+      - name: Generar Excel actualizado
+        id: generar
+        env:
+          CHIRPSTACK_API_TOKEN: ${{ secrets.CHIRPSTACK_API_TOKEN }}
+        run: python generar_excel_diario.py
+
+      - name: Enviar por correo
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          from: ChirpStack Sync
+          to: ${{ secrets.MAIL_TO }}
+          subject: "Estado de conexiones ChirpStack - ${{ steps.generar.outputs.archivo }}"
+          body: "Adjunto el Excel actualizado con el último dato recibido de cada equipo."
+          attachments: ${{ steps.generar.outputs.archivo }}
