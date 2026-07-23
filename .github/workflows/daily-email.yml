@@ -3,9 +3,9 @@ name: Enviar Excel diario ChirpStack
 on:
   workflow_dispatch: {}
   schedule:
-    # 14:00 UTC = 10:00 Chile (horario estándar, UTC-4).
-    # Si rige horario de verano en Chile (UTC-3), cambiar a "0 13 * * *".
-    - cron: "0 14 * * *"
+    # 13:00 UTC = 09:00 Chile (horario estándar, UTC-4).
+    # Si rige horario de verano en Chile (UTC-3), cambiar a "0 12 * * *".
+    - cron: "0 13 * * *"
 
 jobs:
   generar-y-enviar:
