@@ -1,0 +1,25 @@
+name: Test conexión ChirpStack
+
+# Se puede lanzar manualmente desde la pestaña "Actions" de GitHub
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: pip install chirpstack-api grpcio
+
+      - name: Probar conexión
+        env:
+          CHIRPSTACK_API_TOKEN: ${{ secrets.CHIRPSTACK_API_TOKEN }}
+        run: python test_chirpstack_conexion.py
