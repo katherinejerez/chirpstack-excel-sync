@@ -18,6 +18,7 @@ Variables de entorno esperadas (como Secrets en GitHub Actions):
 """
 
 import os
+import json
 import struct
 import requests
 from datetime import datetime, timezone, timedelta
@@ -25,7 +26,7 @@ from chirpstack_api import api
 
 HOST = "chirpstack-cyt.tecnoandina.cl"
 API_TOKEN = os.environ["CHIRPSTACK_API_TOKEN"]
-POWER_AUTOMATE_URL = os.environ.get("POWER_AUTOMATE_URL")  # opcional mientras probamos
+ARCHIVO_SALIDA = "estado_actual.json"
 
 # Zona horaria de Chile continental (ajusta si corresponde horario de verano distinto)
 TZ_CHILE = timezone(timedelta(hours=-4))
@@ -195,12 +196,9 @@ def main():
     for f in filas:
         print(f"  {f}")
 
-    if POWER_AUTOMATE_URL:
-        print(f"\nEnviando a Power Automate ({len(filas)} filas) ...")
-        r = requests.post(POWER_AUTOMATE_URL, json=filas, timeout=30)
-        print(f"Power Automate respondió: HTTP {r.status_code}")
-    else:
-        print("\n(POWER_AUTOMATE_URL no está configurado todavía — solo se probó la lectura de ChirpStack.)")
+    with open(ARCHIVO_SALIDA, "w", encoding="utf-8") as f:
+        json.dump(filas, f, ensure_ascii=False, indent=2)
+    print(f"\nGuardado en {ARCHIVO_SALIDA} ({len(filas)} filas). Power Automate lo leerá desde ahí.")
 
 
 if __name__ == "__main__":
