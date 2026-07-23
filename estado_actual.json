@@ -1,0 +1,218 @@
+[
+  {
+    "id": "Chimbarongo|Decantadores",
+    "fecha": "2026-07-23",
+    "hora": "15:23:44",
+    "status": "Conectado"
+  },
+  {
+    "id": "Chimbarongo|Subestación 1",
+    "fecha": "2026-07-23",
+    "hora": "15:23:23",
+    "status": "Conectado"
+  },
+  {
+    "id": "Chimbarongo|Subestación 2",
+    "fecha": "2026-07-23",
+    "hora": "15:23:32",
+    "status": "Conectado"
+  },
+  {
+    "id": "Chimbarongo|York Chico",
+    "fecha": "2026-07-08",
+    "hora": "15:23:48",
+    "status": "Desconectado"
+  },
+  {
+    "id": "Cono Sur|Centrífuga",
+    "fecha": "2026-07-23",
+    "hora": "15:23:24",
+    "status": "Conectado"
+  },
+  {
+    "id": "Cono Sur|EAG-2007 (Climaveneta)",
+    "fecha": "2026-07-23",
+    "hora": "15:23:43",
+    "status": "Conectado"
+  },
+  {
+    "id": "Cono Sur|EAG-2015 (Climaveneta)",
+    "fecha": "2026-07-23",
+    "hora": "15:23:30",
+    "status": "Conectado"
+  },
+  {
+    "id": "Cono Sur|ENF004 (Climaveneta)",
+    "fecha": "2026-07-23",
+    "hora": "15:23:36",
+    "status": "Conectado"
+  },
+  {
+    "id": "Cono Sur|Subestación 1",
+    "fecha": "2026-07-23",
+    "hora": "15:23:36",
+    "status": "Conectado"
+  },
+  {
+    "id": "Cono Sur|Subestación 2",
+    "fecha": "2026-07-23",
+    "hora": "15:23:36",
+    "status": "Conectado"
+  },
+  {
+    "id": "Cono Sur|Subestación 3",
+    "fecha": "2026-07-23",
+    "hora": "15:23:36",
+    "status": "Conectado"
+  },
+  {
+    "id": "Cono Sur|Subestación 5",
+    "fecha": "2026-07-23",
+    "hora": "15:23:20",
+    "status": "Conectado"
+  },
+  {
+    "id": "Cono Sur|Estación Parabólica 1 (Principal)",
+    "fecha": "2026-07-23",
+    "hora": "15:23:01",
+    "status": "Conectado"
+  },
+  {
+    "id": "Cono Sur|Subestación 4",
+    "fecha": "2026-07-23",
+    "hora": "15:23:36",
+    "status": "Conectado"
+  },
+  {
+    "id": "Cono Sur|EAG-York 2019",
+    "fecha": "2026-07-23",
+    "hora": "15:23:28",
+    "status": "Conectado"
+  },
+  {
+    "id": "Cono Sur|EAG-2022 (York)",
+    "fecha": "2026-07-23",
+    "hora": "15:23:38",
+    "status": "Conectado"
+  },
+  {
+    "id": "Nueva Aurora|Medidor/Sensor Nivel",
+    "fecha": "2026-07-23",
+    "hora": "15:21:53",
+    "status": "Conectado"
+  },
+  {
+    "id": "Nueva Aurora|Subestación 4",
+    "fecha": "2026-07-23",
+    "hora": "15:23:23",
+    "status": "Conectado"
+  },
+  {
+    "id": "Nueva Aurora|York",
+    "fecha": "2026-07-23",
+    "hora": "15:23:11",
+    "status": "Conectado"
+  },
+  {
+    "id": "Nueva Aurora|Energía Pozo",
+    "fecha": "2026-07-23",
+    "hora": "15:23:46",
+    "status": "Conectado"
+  },
+  {
+    "id": "Nueva Aurora|Red de Agua (Flujometro)",
+    "fecha": "2026-07-23",
+    "hora": "15:22:56",
+    "status": "Conectado"
+  },
+  {
+    "id": "Nueva Aurora|Subestación 1",
+    "fecha": "2026-07-23",
+    "hora": "15:23:45",
+    "status": "Conectado"
+  },
+  {
+    "id": "Nueva Aurora|Subestación 2",
+    "fecha": "2026-07-23",
+    "hora": "15:23:45",
+    "status": "Conectado"
+  },
+  {
+    "id": "Nueva Aurora|Subestación 3",
+    "fecha": "2026-07-23",
+    "hora": "15:23:42",
+    "status": "Conectado"
+  },
+  {
+    "id": "Puente Alto|EAG-008 (Climaveneta Frente)",
+    "fecha": "2026-06-09",
+    "hora": "17:51:02",
+    "status": "Desconectado"
+  },
+  {
+    "id": "Puente Alto|Nave 1 (Don Melchor)",
+    "fecha": "2026-07-07",
+    "hora": "12:25:27",
+    "status": "Desconectado"
+  },
+  {
+    "id": "Puente Alto|Red de Agua (Flujo Bodega)",
+    "fecha": "2026-07-23",
+    "hora": "15:22:39",
+    "status": "Conectado"
+  },
+  {
+    "id": "Puente Alto|Subestación 1",
+    "fecha": "2026-07-23",
+    "hora": "15:23:39",
+    "status": "Conectado"
+  },
+  {
+    "id": "Puente Alto|EAG-04/5 (Sala de Maquinas 1)",
+    "fecha": "2026-07-23",
+    "hora": "15:23:07",
+    "status": "Conectado"
+  },
+  {
+    "id": "Puente Alto|Subestación 2 (Sala de Maquinas 2)",
+    "fecha": "2026-07-23",
+    "hora": "15:23:37",
+    "status": "Conectado"
+  },
+  {
+    "id": "Vespucio|Agua Blanda",
+    "fecha": "2026-06-19",
+    "hora": "05:31:26",
+    "status": "Desconectado"
+  },
+  {
+    "id": "Vespucio|Calderas",
+    "fecha": "2026-07-16",
+    "hora": "18:34:27",
+    "status": "Desconectado"
+  },
+  {
+    "id": "Vespucio|Nivel Pozo",
+    "fecha": "2026-07-17",
+    "hora": "18:54:09",
+    "status": "Desconectado"
+  },
+  {
+    "id": "Vespucio|Subestación 1 (Techo)",
+    "fecha": "2026-07-17",
+    "hora": "18:55:25",
+    "status": "Desconectado"
+  },
+  {
+    "id": "Vespucio|Bombas",
+    "fecha": "2026-07-17",
+    "hora": "18:55:26",
+    "status": "Desconectado"
+  },
+  {
+    "id": "Vespucio|Planta Osmosis",
+    "fecha": "2026-07-17",
+    "hora": "18:56:23",
+    "status": "Desconectado"
+  }
+]
