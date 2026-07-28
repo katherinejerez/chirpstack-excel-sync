@@ -1,20 +1,20 @@
 [
   {
     "id": "Chimbarongo|Decantadores",
-    "fecha": "2026-07-27",
-    "hora": "17:54:35",
+    "fecha": "2026-07-28",
+    "hora": "03:47:22",
     "status": "Conectado"
   },
   {
     "id": "Chimbarongo|Subestación 1",
-    "fecha": "2026-07-27",
-    "hora": "17:54:23",
+    "fecha": "2026-07-28",
+    "hora": "03:47:01",
     "status": "Conectado"
   },
   {
     "id": "Chimbarongo|Subestación 2",
-    "fecha": "2026-07-27",
-    "hora": "17:54:33",
+    "fecha": "2026-07-28",
+    "hora": "03:47:07",
     "status": "Conectado"
   },
   {
@@ -25,122 +25,122 @@
   },
   {
     "id": "Cono Sur|Centrífuga",
-    "fecha": "2026-07-27",
-    "hora": "17:54:35",
+    "fecha": "2026-07-28",
+    "hora": "03:47:10",
     "status": "Conectado"
   },
   {
     "id": "Cono Sur|EAG-2007 (Climaveneta)",
-    "fecha": "2026-07-27",
-    "hora": "17:54:25",
+    "fecha": "2026-07-28",
+    "hora": "03:47:19",
     "status": "Conectado"
   },
   {
     "id": "Cono Sur|EAG-2015 (Climaveneta)",
-    "fecha": "2026-07-27",
-    "hora": "17:54:15",
+    "fecha": "2026-07-28",
+    "hora": "03:47:16",
     "status": "Conectado"
   },
   {
     "id": "Cono Sur|ENF004 (Climaveneta)",
-    "fecha": "2026-07-27",
-    "hora": "17:54:08",
+    "fecha": "2026-07-28",
+    "hora": "03:47:08",
     "status": "Conectado"
   },
   {
     "id": "Cono Sur|Subestación 1",
-    "fecha": "2026-07-27",
-    "hora": "17:54:29",
+    "fecha": "2026-07-28",
+    "hora": "03:47:21",
     "status": "Conectado"
   },
   {
     "id": "Cono Sur|Subestación 2",
-    "fecha": "2026-07-27",
-    "hora": "17:54:29",
+    "fecha": "2026-07-28",
+    "hora": "03:47:21",
     "status": "Conectado"
   },
   {
     "id": "Cono Sur|Subestación 3",
-    "fecha": "2026-07-27",
-    "hora": "17:54:29",
+    "fecha": "2026-07-28",
+    "hora": "03:47:21",
     "status": "Conectado"
   },
   {
     "id": "Cono Sur|Subestación 5",
-    "fecha": "2026-07-27",
-    "hora": "17:54:17",
+    "fecha": "2026-07-28",
+    "hora": "03:47:10",
     "status": "Conectado"
   },
   {
     "id": "Cono Sur|Estación Parabólica 1 (Principal)",
-    "fecha": "2026-07-27",
-    "hora": "17:53:30",
+    "fecha": "2026-07-28",
+    "hora": "03:43:47",
     "status": "Conectado"
   },
   {
     "id": "Cono Sur|Subestación 4",
-    "fecha": "2026-07-27",
-    "hora": "17:53:58",
+    "fecha": "2026-07-28",
+    "hora": "03:47:27",
     "status": "Conectado"
   },
   {
     "id": "Cono Sur|EAG-York 2019",
-    "fecha": "2026-07-27",
-    "hora": "17:54:32",
+    "fecha": "2026-07-28",
+    "hora": "03:47:24",
     "status": "Conectado"
   },
   {
     "id": "Cono Sur|EAG-2022 (York)",
-    "fecha": "2026-07-27",
-    "hora": "17:54:21",
+    "fecha": "2026-07-28",
+    "hora": "03:46:48",
     "status": "Conectado"
   },
   {
     "id": "Nueva Aurora|Medidor/Sensor Nivel",
-    "fecha": "2026-07-27",
-    "hora": "17:54:19",
+    "fecha": "2026-07-28",
+    "hora": "03:45:58",
     "status": "Conectado"
   },
   {
     "id": "Nueva Aurora|Subestación 4",
-    "fecha": "2026-07-27",
-    "hora": "17:53:54",
+    "fecha": "2026-07-28",
+    "hora": "03:46:56",
     "status": "Conectado"
   },
   {
     "id": "Nueva Aurora|York",
-    "fecha": "2026-07-27",
-    "hora": "17:54:08",
+    "fecha": "2026-07-28",
+    "hora": "03:47:08",
     "status": "Conectado"
   },
   {
     "id": "Nueva Aurora|Energía Pozo",
-    "fecha": "2026-07-27",
-    "hora": "17:54:06",
+    "fecha": "2026-07-28",
+    "hora": "03:46:33",
     "status": "Conectado"
   },
   {
     "id": "Nueva Aurora|Red de Agua (Flujometro)",
-    "fecha": "2026-07-27",
-    "hora": "17:52:07",
+    "fecha": "2026-07-28",
+    "hora": "03:46:33",
     "status": "Conectado"
   },
   {
     "id": "Nueva Aurora|Subestación 1",
-    "fecha": "2026-07-27",
-    "hora": "17:54:18",
+    "fecha": "2026-07-28",
+    "hora": "03:47:04",
     "status": "Conectado"
   },
   {
     "id": "Nueva Aurora|Subestación 2",
-    "fecha": "2026-07-27",
-    "hora": "17:54:18",
+    "fecha": "2026-07-28",
+    "hora": "03:47:04",
     "status": "Conectado"
   },
   {
     "id": "Nueva Aurora|Subestación 3",
-    "fecha": "2026-07-27",
-    "hora": "17:54:21",
+    "fecha": "2026-07-28",
+    "hora": "03:47:22",
     "status": "Conectado"
   },
   {
@@ -157,26 +157,26 @@
   },
   {
     "id": "Puente Alto|Red de Agua (Flujo Bodega)",
-    "fecha": "2026-07-27",
-    "hora": "17:51:18",
+    "fecha": "2026-07-28",
+    "hora": "03:45:50",
     "status": "Conectado"
   },
   {
     "id": "Puente Alto|Subestación 1",
-    "fecha": "2026-07-27",
-    "hora": "17:54:02",
+    "fecha": "2026-07-28",
+    "hora": "03:47:23",
     "status": "Conectado"
   },
   {
     "id": "Puente Alto|EAG-04/5 (Sala de Maquinas 1)",
-    "fecha": "2026-07-27",
-    "hora": "17:54:11",
+    "fecha": "2026-07-28",
+    "hora": "03:46:44",
     "status": "Conectado"
   },
   {
     "id": "Puente Alto|Subestación 2 (Sala de Maquinas 2)",
-    "fecha": "2026-07-27",
-    "hora": "17:54:33",
+    "fecha": "2026-07-28",
+    "hora": "03:47:16",
     "status": "Conectado"
   },
   {
