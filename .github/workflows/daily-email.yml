@@ -31,8 +31,9 @@ jobs:
           ahora = datetime.now(chile)
           hoy = ahora.strftime('%Y-%m-%d')
 
-          # Ventana de envío: entre 9:15 y 10:00 hora Chile
-          ventana_ok = (ahora.hour == 9 and ahora.minute >= 15) or (ahora.hour == 10 and ahora.minute <= 30)
+          # TEMPORAL: forzado a True solo para esta prueba puntual.
+          # Revertir a la condición real después de confirmar que llega el correo.
+          ventana_ok = True
 
           print(f'hoy={hoy}')
           print(f'debe_enviar={str(ventana_ok).lower()}')
