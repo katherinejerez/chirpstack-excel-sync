@@ -6,7 +6,7 @@ on:
     # Corre cada 5 min en una ventana ancha (12-14 UTC) para cubrir
     # tanto horario estándar (UTC-4) como de verano (UTC-3) en Chile.
     # El paso "Calcular hora Chile" decide si realmente toca enviar.
-    - cron: "*/5 11-13 * * *"
+    - cron: "*/5 12-14 * * *"
 
 jobs:
   generar-y-enviar:
@@ -31,8 +31,8 @@ jobs:
           ahora = datetime.now(chile)
           hoy = ahora.strftime('%Y-%m-%d')
 
-          # Ventana de envío: entre 9:45 y 10:30 hora Chile
-          ventana_ok = (ahora.hour == 9 and ahora.minute >= 45) or (ahora.hour == 10 and ahora.minute <= 30)
+          # Ventana de envío: entre 9:15 y 10:00 hora Chile
+          ventana_ok = (ahora.hour == 9 and ahora.minute >= 15) or (ahora.hour == 10 and ahora.minute <= 30)
 
           print(f'hoy={hoy}')
           print(f'debe_enviar={str(ventana_ok).lower()}')
