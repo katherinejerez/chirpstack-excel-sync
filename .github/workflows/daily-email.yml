@@ -3,10 +3,7 @@ name: Enviar Excel diario ChirpStack
 on:
   workflow_dispatch: {}
   schedule:
-    # Corre cada 5 min en una ventana ancha (12-14 UTC) para cubrir
-    # tanto horario estándar (UTC-4) como de verano (UTC-3) en Chile.
-    # El paso "Calcular hora Chile" decide si realmente toca enviar.
-    - cron: "*/5 12-14 * * *"
+    - cron: "*/15 * * * *"
 
 jobs:
   generar-y-enviar:
@@ -20,7 +17,7 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Calcular hora Chile
+      - name: Calcular fecha Chile
         id: hora
         run: |
           python3 -c "
@@ -31,11 +28,7 @@ jobs:
           ahora = datetime.now(chile)
           hoy = ahora.strftime('%Y-%m-%d')
 
-          # Ventana de envío: entre 9:15 y 10:00 hora Chile
-          ventana_ok = (ahora.hour == 9 and ahora.minute >= 15) or (ahora.hour == 10 and ahora.minute <= 30)
-
           print(f'hoy={hoy}')
-          print(f'debe_enviar={str(ventana_ok).lower()}')
           print(f'hora_actual={ahora.strftime(\"%H:%M\")}')
           " >> "$GITHUB_OUTPUT"
 
@@ -49,12 +42,12 @@ jobs:
       - name: Decidir si corresponde enviar
         id: decision
         run: |
-          if [ "${{ steps.hora.outputs.debe_enviar }}" = "true" ] && [ "${{ steps.marca.outputs.cache-hit }}" != "true" ]; then
+          if [ "${{ steps.marca.outputs.cache-hit }}" != "true" ]; then
             echo "enviar=true" >> "$GITHUB_OUTPUT"
           else
             echo "enviar=false" >> "$GITHUB_OUTPUT"
           fi
-          echo "Hora Chile: ${{ steps.hora.outputs.hora_actual }} | Ya enviado hoy: ${{ steps.marca.outputs.cache-hit }} | Enviar ahora: (ver arriba)"
+          echo "Fecha Chile: ${{ steps.hora.outputs.hoy }} | Ya enviado hoy: ${{ steps.marca.outputs.cache-hit }}"
 
       - name: Instalar dependencias
         if: steps.decision.outputs.enviar == 'true'
