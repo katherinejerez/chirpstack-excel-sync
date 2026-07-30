@@ -6,7 +6,7 @@ on:
     # Corre cada 5 min en una ventana ancha (12-14 UTC) para cubrir
     # tanto horario estándar (UTC-4) como de verano (UTC-3) en Chile.
     # El paso "Calcular hora Chile" decide si realmente toca enviar.
-    - cron: "*/5 12-14 * * *"
+    - cron: "*/5 11-13 * * *"
 
 jobs:
   generar-y-enviar:
