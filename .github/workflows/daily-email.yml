@@ -3,7 +3,7 @@ name: Enviar Excel diario ChirpStack
 on:
   workflow_dispatch: {}
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "5 12 * * *"
 
 jobs:
   generar-y-enviar:
