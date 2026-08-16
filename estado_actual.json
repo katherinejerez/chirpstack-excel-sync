@@ -2,19 +2,19 @@
   {
     "id": "Chimbarongo|RAK2461_Energia_Decanters",
     "fecha": "2026-08-16",
-    "hora": "11:56:43",
+    "hora": "12:14:28",
     "status": "Conectado"
   },
   {
     "id": "Chimbarongo|RAK2461_SE1_Flujo",
     "fecha": "2026-08-16",
-    "hora": "11:56:23",
+    "hora": "12:14:46",
     "status": "Conectado"
   },
   {
     "id": "Chimbarongo|RAK2470_SE2",
     "fecha": "2026-08-16",
-    "hora": "11:56:10",
+    "hora": "12:14:44",
     "status": "Conectado"
   },
   {
@@ -26,91 +26,91 @@
   {
     "id": "Cono Sur|RAK2461_Centrifuga",
     "fecha": "2026-08-16",
-    "hora": "11:56:19",
+    "hora": "12:13:28",
     "status": "Conectado"
   },
   {
     "id": "Cono Sur|RAK2461_Climaveneta_2007",
     "fecha": "2026-08-16",
-    "hora": "11:55:48",
+    "hora": "12:12:54",
     "status": "Conectado"
   },
   {
     "id": "Cono Sur|RAK2461_Climaveneta_2015",
     "fecha": "2026-08-16",
-    "hora": "11:56:24",
+    "hora": "12:14:38",
     "status": "Conectado"
   },
   {
     "id": "Cono Sur|RAK2461_Climaveneta_ENF004",
     "fecha": "2026-08-16",
-    "hora": "11:56:39",
+    "hora": "12:14:36",
     "status": "Conectado"
   },
   {
     "id": "Cono Sur|Subestación 1",
     "fecha": "2026-08-16",
-    "hora": "11:56:39",
+    "hora": "12:14:31",
     "status": "Conectado"
   },
   {
     "id": "Cono Sur|Subestación 2",
     "fecha": "2026-08-16",
-    "hora": "11:56:39",
+    "hora": "12:14:31",
     "status": "Conectado"
   },
   {
     "id": "Cono Sur|Subestación 3",
     "fecha": "2026-08-16",
-    "hora": "11:56:39",
+    "hora": "12:14:31",
     "status": "Conectado"
   },
   {
     "id": "Cono Sur|Subestación 1 Fotovoltaica",
     "fecha": "2026-08-16",
-    "hora": "11:56:39",
+    "hora": "12:14:31",
     "status": "Conectado"
   },
   {
     "id": "Cono Sur|Subestación 2 Fotovoltaica",
     "fecha": "2026-08-16",
-    "hora": "11:56:39",
+    "hora": "12:14:31",
     "status": "Conectado"
   },
   {
     "id": "Cono Sur|RAK2461_SE5",
     "fecha": "2026-08-16",
-    "hora": "11:56:38",
+    "hora": "12:14:36",
     "status": "Conectado"
   },
   {
     "id": "Cono Sur|RAK2470_Compresores",
     "fecha": "2026-08-16",
-    "hora": "11:56:34",
+    "hora": "12:14:43",
     "status": "Conectado"
   },
   {
     "id": "Cono Sur|RAK2470_Parabolico_1",
     "fecha": "2026-08-16",
-    "hora": "11:56:27",
+    "hora": "12:14:11",
     "status": "Conectado"
   },
   {
     "id": "Cono Sur|RAK2470_SE4",
     "fecha": "2026-08-16",
-    "hora": "11:56:05",
+    "hora": "12:13:57",
     "status": "Conectado"
   },
   {
     "id": "Cono Sur|RAK2470_York_2019_Mitsubishi",
     "fecha": "2026-08-16",
-    "hora": "11:56:42",
+    "hora": "12:14:43",
     "status": "Conectado"
   },
   {
     "id": "Cono Sur|RAK2470_York_2022",
     "fecha": "2026-08-16",
-    "hora": "11:54:50",
+    "hora": "12:14:32",
     "status": "Conectado"
   },
   {
@@ -128,181 +128,181 @@
   {
     "id": "Limari|RAK2470_SE1",
     "fecha": "2026-08-16",
-    "hora": "11:56:42",
+    "hora": "12:14:44",
     "status": "Conectado"
   },
   {
     "id": "Limari|RAK2470_SE2",
     "fecha": "2026-08-16",
-    "hora": "11:56:02",
+    "hora": "12:14:06",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2461_Agua_Camiones",
     "fecha": "2026-08-16",
-    "hora": "11:55:05",
+    "hora": "12:12:45",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2461_Caldera",
     "fecha": "2026-08-16",
-    "hora": "11:55:50",
+    "hora": "12:14:05",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2461_Climaveneta_EAG0017",
     "fecha": "2026-08-16",
-    "hora": "11:56:15",
+    "hora": "12:14:41",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2461_Climaveneta_EAG0043",
     "fecha": "2026-08-16",
-    "hora": "11:56:18",
+    "hora": "12:14:39",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2461_Climaveneta_EAG0044",
     "fecha": "2026-08-16",
-    "hora": "11:56:18",
+    "hora": "12:14:44",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2461_Climaveneta_EAG0045",
     "fecha": "2026-08-16",
-    "hora": "11:56:36",
+    "hora": "12:14:40",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2461_Climaveneta_EAG0049",
     "fecha": "2026-08-16",
-    "hora": "11:56:43",
+    "hora": "12:14:22",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2461_Estabilizador_1",
     "fecha": "2026-08-16",
-    "hora": "11:56:01",
+    "hora": "12:14:36",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2461_Estanque_Bombas",
     "fecha": "2026-08-16",
-    "hora": "11:56:27",
+    "hora": "12:14:42",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2461_SE14",
     "fecha": "2026-08-16",
-    "hora": "11:56:39",
+    "hora": "12:14:24",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2461_SE6_7",
     "fecha": "2026-08-16",
-    "hora": "11:56:33",
+    "hora": "12:14:40",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2461_SE_Casino",
     "fecha": "2026-08-16",
-    "hora": "11:56:19",
+    "hora": "12:14:37",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2470_Estabilizador_2",
     "fecha": "2026-08-16",
-    "hora": "11:56:40",
+    "hora": "12:14:43",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2470_Riles",
     "fecha": "2026-08-16",
-    "hora": "11:56:41",
+    "hora": "12:14:21",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2470_SE1",
     "fecha": "2026-08-16",
-    "hora": "11:56:13",
+    "hora": "12:14:39",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2470_SE10",
     "fecha": "2026-08-16",
-    "hora": "11:56:13",
+    "hora": "12:14:40",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2470_SE4",
     "fecha": "2026-08-16",
-    "hora": "11:56:35",
+    "hora": "12:14:34",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2470_SE5",
     "fecha": "2026-08-16",
-    "hora": "11:56:38",
+    "hora": "12:14:46",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2470_SE8",
     "fecha": "2026-08-16",
-    "hora": "11:56:40",
+    "hora": "12:14:37",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2470_York",
     "fecha": "2026-08-16",
-    "hora": "11:56:38",
+    "hora": "12:13:38",
     "status": "Conectado"
   },
   {
     "id": "Nueva Aurora|RAK2461_Medidores_Y_Nivel",
     "fecha": "2026-08-16",
-    "hora": "11:54:13",
+    "hora": "12:13:24",
     "status": "Conectado"
   },
   {
     "id": "Nueva Aurora|RAK2461_SE4",
     "fecha": "2026-08-16",
-    "hora": "11:56:25",
+    "hora": "12:14:47",
     "status": "Conectado"
   },
   {
     "id": "Nueva Aurora|RAK2461_York",
     "fecha": "2026-08-16",
-    "hora": "11:56:36",
+    "hora": "12:14:42",
     "status": "Conectado"
   },
   {
     "id": "Nueva Aurora|RAK2470_Energia_Pozo",
     "fecha": "2026-08-16",
-    "hora": "11:56:25",
+    "hora": "12:14:43",
     "status": "Conectado"
   },
   {
     "id": "Nueva Aurora|RAK2470_Flujometro",
     "fecha": "2026-08-16",
-    "hora": "11:54:37",
+    "hora": "12:13:47",
     "status": "Conectado"
   },
   {
     "id": "Nueva Aurora|Subestación 1",
     "fecha": "2026-08-16",
-    "hora": "11:56:42",
+    "hora": "12:14:33",
     "status": "Conectado"
   },
   {
     "id": "Nueva Aurora|Subestación 2",
     "fecha": "2026-08-16",
-    "hora": "11:56:42",
+    "hora": "12:14:33",
     "status": "Conectado"
   },
   {
     "id": "Nueva Aurora|RAK2470_SE3",
     "fecha": "2026-08-16",
-    "hora": "11:56:37",
+    "hora": "12:14:45",
     "status": "Conectado"
   },
   {
@@ -326,25 +326,25 @@
   {
     "id": "Puente Alto|RAK2461_Flujo_Bodega",
     "fecha": "2026-08-16",
-    "hora": "11:55:06",
+    "hora": "12:13:14",
     "status": "Conectado"
   },
   {
     "id": "Puente Alto|RAK2461_SE1",
     "fecha": "2026-08-16",
-    "hora": "11:55:43",
+    "hora": "12:14:20",
     "status": "Conectado"
   },
   {
     "id": "Puente Alto|RAK2470_Sala_Maquinas_1",
     "fecha": "2026-08-16",
-    "hora": "11:55:35",
+    "hora": "12:14:46",
     "status": "Conectado"
   },
   {
     "id": "Puente Alto|RAK2470_Sala_Maquinas_2",
     "fecha": "2026-08-16",
-    "hora": "11:56:34",
+    "hora": "12:14:40",
     "status": "Conectado"
   },
   {
