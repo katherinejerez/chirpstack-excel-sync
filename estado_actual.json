@@ -2,19 +2,19 @@
   {
     "id": "Chimbarongo|RAK2461_Energia_Decanters",
     "fecha": "2026-08-23",
-    "hora": "10:21:30",
+    "hora": "10:45:13",
     "status": "Conectado"
   },
   {
     "id": "Chimbarongo|RAK2461_SE1_Flujo",
     "fecha": "2026-08-23",
-    "hora": "10:21:35",
+    "hora": "10:45:10",
     "status": "Conectado"
   },
   {
     "id": "Chimbarongo|RAK2470_SE2",
     "fecha": "2026-08-23",
-    "hora": "10:21:09",
+    "hora": "10:45:19",
     "status": "Conectado"
   },
   {
@@ -26,25 +26,25 @@
   {
     "id": "Cono Sur|RAK2461_Centrifuga",
     "fecha": "2026-08-23",
-    "hora": "10:20:36",
+    "hora": "10:45:02",
     "status": "Conectado"
   },
   {
     "id": "Cono Sur|RAK2461_Climaveneta_2007",
     "fecha": "2026-08-23",
-    "hora": "10:21:04",
+    "hora": "10:43:31",
     "status": "Conectado"
   },
   {
     "id": "Cono Sur|RAK2461_Climaveneta_2015",
     "fecha": "2026-08-23",
-    "hora": "10:20:35",
+    "hora": "10:44:54",
     "status": "Conectado"
   },
   {
     "id": "Cono Sur|RAK2461_Climaveneta_ENF004",
     "fecha": "2026-08-23",
-    "hora": "10:20:55",
+    "hora": "10:45:16",
     "status": "Conectado"
   },
   {
@@ -80,37 +80,37 @@
   {
     "id": "Cono Sur|RAK2461_SE5",
     "fecha": "2026-08-23",
-    "hora": "10:20:44",
+    "hora": "10:45:25",
     "status": "Conectado"
   },
   {
     "id": "Cono Sur|RAK2470_Compresores",
     "fecha": "2026-08-23",
-    "hora": "10:21:34",
+    "hora": "10:45:20",
     "status": "Conectado"
   },
   {
     "id": "Cono Sur|RAK2470_Parabolico_1",
     "fecha": "2026-08-23",
-    "hora": "10:20:43",
+    "hora": "10:43:31",
     "status": "Conectado"
   },
   {
     "id": "Cono Sur|RAK2470_SE4",
     "fecha": "2026-08-23",
-    "hora": "10:21:20",
+    "hora": "10:45:19",
     "status": "Conectado"
   },
   {
     "id": "Cono Sur|RAK2470_York_2019_Mitsubishi",
     "fecha": "2026-08-23",
-    "hora": "10:21:36",
+    "hora": "10:45:28",
     "status": "Conectado"
   },
   {
     "id": "Cono Sur|RAK2470_York_2022",
     "fecha": "2026-08-23",
-    "hora": "10:20:14",
+    "hora": "10:44:59",
     "status": "Conectado"
   },
   {
@@ -128,181 +128,181 @@
   {
     "id": "Limari|RAK2470_SE1",
     "fecha": "2026-08-23",
-    "hora": "10:21:18",
+    "hora": "10:44:54",
     "status": "Conectado"
   },
   {
     "id": "Limari|RAK2470_SE2",
     "fecha": "2026-08-23",
-    "hora": "10:21:30",
+    "hora": "10:45:28",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2461_Agua_Camiones",
     "fecha": "2026-08-23",
-    "hora": "10:18:54",
+    "hora": "10:45:24",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2461_Caldera",
     "fecha": "2026-08-23",
-    "hora": "10:21:15",
+    "hora": "10:44:34",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2461_Climaveneta_EAG0017",
     "fecha": "2026-08-23",
-    "hora": "10:21:31",
+    "hora": "10:45:27",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2461_Climaveneta_EAG0043",
     "fecha": "2026-08-23",
-    "hora": "10:21:22",
+    "hora": "10:45:16",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2461_Climaveneta_EAG0044",
     "fecha": "2026-08-23",
-    "hora": "10:21:32",
+    "hora": "10:45:05",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2461_Climaveneta_EAG0045",
     "fecha": "2026-08-23",
-    "hora": "10:21:23",
+    "hora": "10:45:18",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2461_Climaveneta_EAG0049",
     "fecha": "2026-08-23",
-    "hora": "10:21:36",
+    "hora": "10:45:23",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2461_Estabilizador_1",
     "fecha": "2026-08-23",
-    "hora": "10:20:48",
+    "hora": "10:45:08",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2461_Estanque_Bombas",
     "fecha": "2026-08-23",
-    "hora": "10:21:22",
+    "hora": "10:45:23",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2461_SE14",
     "fecha": "2026-08-23",
-    "hora": "10:20:33",
+    "hora": "10:45:22",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2461_SE6_7",
     "fecha": "2026-08-23",
-    "hora": "10:21:35",
+    "hora": "10:45:13",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2461_SE_Casino",
     "fecha": "2026-08-23",
-    "hora": "10:21:13",
+    "hora": "10:45:01",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2470_Estabilizador_2",
     "fecha": "2026-08-23",
-    "hora": "10:21:07",
+    "hora": "10:45:26",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2470_Riles",
     "fecha": "2026-08-23",
-    "hora": "10:21:29",
+    "hora": "10:45:28",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2470_SE1",
     "fecha": "2026-08-23",
-    "hora": "10:21:33",
+    "hora": "10:45:29",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2470_SE10",
     "fecha": "2026-08-23",
-    "hora": "10:21:18",
+    "hora": "10:45:04",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2470_SE4",
     "fecha": "2026-08-23",
-    "hora": "10:21:17",
+    "hora": "10:45:25",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2470_SE5",
     "fecha": "2026-08-23",
-    "hora": "10:21:25",
+    "hora": "10:44:56",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2470_SE8",
     "fecha": "2026-08-23",
-    "hora": "10:20:53",
+    "hora": "10:45:27",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2470_York",
     "fecha": "2026-08-23",
-    "hora": "10:20:16",
+    "hora": "10:45:23",
     "status": "Conectado"
   },
   {
     "id": "Nueva Aurora|RAK2461_Medidores_Y_Nivel",
     "fecha": "2026-08-23",
-    "hora": "10:20:30",
+    "hora": "10:45:08",
     "status": "Conectado"
   },
   {
     "id": "Nueva Aurora|RAK2461_SE4",
     "fecha": "2026-08-23",
-    "hora": "10:21:35",
+    "hora": "10:45:10",
     "status": "Conectado"
   },
   {
     "id": "Nueva Aurora|RAK2461_York",
     "fecha": "2026-08-23",
-    "hora": "10:21:25",
+    "hora": "10:45:29",
     "status": "Conectado"
   },
   {
     "id": "Nueva Aurora|RAK2470_Energia_Pozo",
     "fecha": "2026-08-23",
-    "hora": "10:21:18",
+    "hora": "10:45:27",
     "status": "Conectado"
   },
   {
     "id": "Nueva Aurora|RAK2470_Flujometro",
     "fecha": "2026-08-23",
-    "hora": "10:19:05",
+    "hora": "10:43:44",
     "status": "Conectado"
   },
   {
     "id": "Nueva Aurora|Subestación 1",
     "fecha": "2026-08-23",
-    "hora": "10:21:36",
+    "hora": "10:44:45",
     "status": "Conectado"
   },
   {
     "id": "Nueva Aurora|Subestación 2",
     "fecha": "2026-08-23",
-    "hora": "10:21:36",
+    "hora": "10:44:45",
     "status": "Conectado"
   },
   {
     "id": "Nueva Aurora|RAK2470_SE3",
     "fecha": "2026-08-23",
-    "hora": "10:21:08",
+    "hora": "10:45:03",
     "status": "Conectado"
   },
   {
@@ -326,25 +326,25 @@
   {
     "id": "Puente Alto|RAK2461_Flujo_Bodega",
     "fecha": "2026-08-23",
-    "hora": "10:20:19",
+    "hora": "10:44:30",
     "status": "Conectado"
   },
   {
     "id": "Puente Alto|RAK2461_SE1",
     "fecha": "2026-08-23",
-    "hora": "10:20:34",
+    "hora": "10:45:13",
     "status": "Conectado"
   },
   {
     "id": "Puente Alto|RAK2470_Sala_Maquinas_1",
     "fecha": "2026-08-23",
-    "hora": "10:21:27",
+    "hora": "10:45:25",
     "status": "Conectado"
   },
   {
     "id": "Puente Alto|RAK2470_Sala_Maquinas_2",
     "fecha": "2026-08-23",
-    "hora": "10:21:33",
+    "hora": "10:45:07",
     "status": "Conectado"
   },
   {
