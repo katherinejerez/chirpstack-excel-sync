@@ -1,7 +1,12 @@
 name: Enviar Excel diario ChirpStack
 
 on:
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      forzar_envio:
+        description: "Enviar aunque ya se haya enviado hoy (para pruebas)"
+        type: boolean
+        default: false
   schedule:
     - cron: "5 12 * * *"
 
@@ -46,12 +51,12 @@ jobs:
       - name: Decidir si corresponde enviar
         id: decision
         run: |
-          if [ "${{ steps.marca.outputs.cache-hit }}" != "true" ]; then
+          if [ "${{ steps.marca.outputs.cache-hit }}" != "true" ] || [ "${{ inputs.forzar_envio }}" == "true" ]; then
             echo "enviar=true" >> "$GITHUB_OUTPUT"
           else
             echo "enviar=false" >> "$GITHUB_OUTPUT"
           fi
-          echo "Fecha Chile: ${{ steps.hora.outputs.hoy }} | Ya enviado hoy: ${{ steps.marca.outputs.cache-hit }}"
+          echo "Fecha Chile: ${{ steps.hora.outputs.hoy }} | Ya enviado hoy: ${{ steps.marca.outputs.cache-hit }} | Forzado: ${{ inputs.forzar_envio }}"
 
       - name: Instalar dependencias
         if: steps.decision.outputs.enviar == 'true'
