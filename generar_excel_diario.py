@@ -51,7 +51,14 @@ def construir_filas(ahora=None):
             continue
         fecha, hora, status = calcular_estado(d["last_seen"], ahora=ahora)
         nombres = DUPLICAR_ENTIDAD.get(d["dev_eui"]) or [d["entidad"]]
+        duplicado = d["dev_eui"] in DUPLICAR_ENTIDAD
         for nombre in nombres:
+            # El historial identifica cada fila por su DevEUI, no por el
+            # nombre, para que un renombre en ChirpStack no le cree una fila
+            # nueva. Cuando un mismo DevEUI reporta varias filas (ver
+            # DUPLICAR_ENTIDAD), hay que agregarle el nombre a la clave para
+            # no mezclarlas entre sí.
+            clave_historial = f"{d['dev_eui']}|{nombre}" if duplicado else d["dev_eui"]
             filas.append({
                 "ubicacion": d["ubicacion"],
                 "entidad": nombre,
@@ -59,6 +66,7 @@ def construir_filas(ahora=None):
                 "hora": hora,
                 "status": status,
                 "dev_eui": d["dev_eui"],
+                "clave_historial": clave_historial,
             })
 
     for extra in FILAS_MANUALES:
@@ -71,6 +79,7 @@ def construir_filas(ahora=None):
             "hora": None,
             "status": extra.get("status", "Pendiente"),
             "dev_eui": extra.get("dev_eui", ""),
+            "clave_historial": f"manual|{extra['ubicacion']}|{extra['entidad']}",
         })
 
     filas.sort(key=lambda f: (f["ubicacion"], f["entidad"]))
@@ -158,7 +167,7 @@ def escribir_resumen(nombre_archivo, historial):
             del wb[nombre]
 
     dias = dias_ordenados(historial)
-    ids_ordenados = sorted(historial.keys())
+    claves_ordenadas = sorted(historial.keys(), key=lambda clave: historial[clave]["nombre"])
 
     for mes in meses_ordenados(historial):
         dias_mes = [d for d in dias if d.startswith(mes)]
@@ -170,10 +179,11 @@ def escribir_resumen(nombre_archivo, historial):
             celda.font = Font(bold=True)
             celda.alignment = Alignment(horizontal="center")
 
-        for i, id_ in enumerate(ids_ordenados, start=2):
-            ws.cell(row=i, column=1, value=id_)
+        for i, clave in enumerate(claves_ordenadas, start=2):
+            entrada = historial[clave]
+            ws.cell(row=i, column=1, value=entrada["nombre"])
             for j, dia in enumerate(dias_mes, start=2):
-                status = historial[id_].get(dia)
+                status = entrada["dias"].get(dia)
                 relleno, fuente = ESTILOS_STATUS.get(status, (RELLENO_SIN_DATO, FUENTE_SIN_DATO))
                 celda = ws.cell(row=i, column=j, value=status or "")
                 celda.fill = relleno
