@@ -58,9 +58,12 @@ def elegir_commit_por_dia(commits):
 
 
 def leer_estado_en_commit(hash_):
+    # OJO: estado_actual.json se escribe en UTF-8 (nombres con tildes/ñ). Sin
+    # encoding="utf-8" explícito, subprocess decodifica con el encoding por
+    # defecto del sistema (cp1252 en Windows) y corrompe esos caracteres.
     salida = subprocess.run(
         ["git", "show", f"{hash_}:{ARCHIVO_SEGUIMIENTO}"],
-        capture_output=True, text=True, check=True,
+        capture_output=True, text=True, encoding="utf-8", check=True,
     ).stdout
     return json.loads(salida)
 
