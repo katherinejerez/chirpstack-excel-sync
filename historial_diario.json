@@ -664,6 +664,21 @@
     "2026-08-05": "Conectado",
     "2026-08-06": "Conectado"
   },
+  "Cono Sur|Subestación 1": {
+    "2026-08-25": "Desconectado"
+  },
+  "Cono Sur|Subestación 1 Fotovoltaica": {
+    "2026-08-25": "Desconectado"
+  },
+  "Cono Sur|Subestación 2": {
+    "2026-08-25": "Desconectado"
+  },
+  "Cono Sur|Subestación 2 Fotovoltaica": {
+    "2026-08-25": "Desconectado"
+  },
+  "Cono Sur|Subestación 3": {
+    "2026-08-25": "Desconectado"
+  },
   "Limari|RAK2461_Climaveneta_Mitsubishi": {
     "2026-08-07": "Desconectado",
     "2026-08-08": "Desconectado",
@@ -1254,7 +1269,7 @@
     "2026-08-22": "Conectado",
     "2026-08-23": "Conectado",
     "2026-08-24": "Desconectado",
-    "2026-08-25": "Desconectado"
+    "2026-08-25": "Conectado"
   },
   "Nueva Aurora|RAK2470_Energia_Pozo": {
     "2026-08-07": "Conectado",
@@ -1442,6 +1457,12 @@
     "2026-08-05": "Conectado",
     "2026-08-06": "Conectado"
   },
+  "Nueva Aurora|Subestación 1": {
+    "2026-08-25": "Conectado"
+  },
+  "Nueva Aurora|Subestación 2": {
+    "2026-08-25": "Conectado"
+  },
   "Nueva Aurora|York": {
     "2026-07-23": "Conectado",
     "2026-07-24": "Conectado",
@@ -1595,7 +1616,7 @@
     "2026-08-22": "Conectado",
     "2026-08-23": "Conectado",
     "2026-08-24": "Conectado",
-    "2026-08-25": "Conectado"
+    "2026-08-25": "Desconectado"
   },
   "Puente Alto|RAK2461_SE1": {
     "2026-08-07": "Conectado",
@@ -1878,7 +1899,7 @@
     "2026-08-22": "Desconectado",
     "2026-08-23": "Desconectado",
     "2026-08-24": "Desconectado",
-    "2026-08-25": "Desconectado"
+    "2026-08-25": "Conectado"
   },
   "Vespucio|RAK2470_Bombas": {
     "2026-08-07": "Desconectado",
@@ -1899,7 +1920,7 @@
     "2026-08-22": "Desconectado",
     "2026-08-23": "Desconectado",
     "2026-08-24": "Desconectado",
-    "2026-08-25": "Desconectado"
+    "2026-08-25": "Conectado"
   },
   "Vespucio|RAK2470_Osmosis_Flujo": {
     "2026-08-07": "Desconectado",
@@ -1920,7 +1941,7 @@
     "2026-08-22": "Desconectado",
     "2026-08-23": "Desconectado",
     "2026-08-24": "Desconectado",
-    "2026-08-25": "Desconectado"
+    "2026-08-25": "Conectado"
   },
   "Vespucio|SubestaciÃ³n 1 (Techo)": {
     "2026-07-23": "Desconectado",
