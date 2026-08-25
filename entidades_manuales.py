@@ -22,6 +22,12 @@ Filas para equipos que todavía NO están dados de alta en ChirpStack (sin
 DevEUI). Quedan marcadas con el status indicado (por defecto "Pendiente")
 hasta que se registre el dispositivo real en ChirpStack -- en ese momento
 se puede borrar la entrada de acá, porque el dispositivo va a aparecer solo.
+
+UBICACIONES_EXCLUIDAS
+----------------------
+Nombres de "Ubicación" (aplicación en ChirpStack) que no deben aparecer ni
+en el Excel diario ni en el historial -- ej. aplicaciones de prueba que no
+representan equipos reales en terreno.
 """
 
 DUPLICAR_ENTIDAD = {
@@ -47,3 +53,7 @@ FILAS_MANUALES = [
     # todavía sin configurar en ChirpStack:
     # {"ubicacion": "Limari", "entidad": "Subestación 3", "status": "Pendiente"},
 ]
+
+UBICACIONES_EXCLUIDAS = {
+    "TestOficina",
+}

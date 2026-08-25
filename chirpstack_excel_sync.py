@@ -22,7 +22,7 @@ import os
 import json
 
 from chirpstack_client import descubrir_todo, calcular_estado
-from entidades_manuales import DUPLICAR_ENTIDAD, FILAS_MANUALES
+from entidades_manuales import DUPLICAR_ENTIDAD, FILAS_MANUALES, UBICACIONES_EXCLUIDAS
 
 API_TOKEN = os.environ["CHIRPSTACK_API_TOKEN"]
 ARCHIVO_SALIDA = "estado_actual.json"
@@ -31,6 +31,8 @@ ARCHIVO_SALIDA = "estado_actual.json"
 def construir_filas(ahora=None):
     filas = []
     for d in descubrir_todo(API_TOKEN):
+        if d["ubicacion"] in UBICACIONES_EXCLUIDAS:
+            continue
         fecha, hora, status = calcular_estado(d["last_seen"], ahora=ahora)
         nombres = DUPLICAR_ENTIDAD.get(d["dev_eui"]) or [d["entidad"]]
         for nombre in nombres:
@@ -42,6 +44,8 @@ def construir_filas(ahora=None):
             })
 
     for extra in FILAS_MANUALES:
+        if extra["ubicacion"] in UBICACIONES_EXCLUIDAS:
+            continue
         filas.append({
             "id": f"{extra['ubicacion']}|{extra['entidad']}",
             "fecha": "",
