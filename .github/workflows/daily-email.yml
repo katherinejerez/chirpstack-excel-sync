@@ -8,7 +8,7 @@ on:
         type: boolean
         default: false
   schedule:
-    - cron: "5 12 * * *"
+    - cron: "45 11 * * *"
 
 # Necesario para que la Action pueda hacer commit/push de historial_diario.json
 permissions:
