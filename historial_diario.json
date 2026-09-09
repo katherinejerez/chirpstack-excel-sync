@@ -1217,7 +1217,7 @@
       "2026-09-05": "Desconectado",
       "2026-09-06": "Conectado",
       "2026-09-07": "Desconectado",
-      "2026-09-08": "Desconectado"
+      "2026-09-08": "Conectado"
     },
     "nombre": "Vespucio|RAK2461_Nivel_Pozo"
   },
@@ -1691,7 +1691,7 @@
       "2026-09-05": "Conectado",
       "2026-09-06": "Conectado",
       "2026-09-07": "Desconectado",
-      "2026-09-08": "Conectado"
+      "2026-09-08": "Desconectado"
     },
     "nombre": "Vespucio|RAK2461_Calderas"
   },
@@ -2322,6 +2322,12 @@
     },
     "nombre": "Lontue|RAK2461_SE6_7"
   },
+  "ac1f09fffe1ce6ce": {
+    "dias": {
+      "2026-09-08": "Conectado"
+    },
+    "nombre": "San Javier|RAK2461_SE4"
+  },
   "ac1f09fffe1ce6d4": {
     "dias": {
       "2026-08-07": "Conectado",
@@ -2645,7 +2651,7 @@
       "2026-09-05": "Conectado",
       "2026-09-06": "Conectado",
       "2026-09-07": "Conectado",
-      "2026-09-08": "Desconectado"
+      "2026-09-08": "Conectado"
     },
     "nombre": "Cono Sur|RAK2461_Climaveneta_2007"
   },
@@ -2678,6 +2684,12 @@
       "2026-09-08": "Conectado"
     },
     "nombre": "Pirque|RAK2461_Flujometro_Nivel"
+  },
+  "ac1f09fffe1ce73e": {
+    "dias": {
+      "2026-09-08": "Desconectado"
+    },
+    "nombre": "San Javier|RAK2461_Climaveneta_EAG0030"
   },
   "ac1f09fffe1ce740": {
     "dias": {
@@ -2857,7 +2869,7 @@
       "2026-09-05": "Conectado",
       "2026-09-06": "Conectado",
       "2026-09-07": "Conectado",
-      "2026-09-08": "Desconectado"
+      "2026-09-08": "Conectado"
     },
     "nombre": "Cono Sur|RAK2461_Climaveneta_2015"
   },
@@ -3041,6 +3053,12 @@
     },
     "nombre": "Cono Sur|RAK2461_Centrifuga"
   },
+  "ac1f09fffe206852": {
+    "dias": {
+      "2026-09-08": "Desconectado"
+    },
+    "nombre": "San Javier|RAK2470_SE1"
+  },
   "ac1f09fffe20685c": {
     "dias": {
       "2026-09-03": "Conectado",
@@ -3199,6 +3217,12 @@
     },
     "nombre": "Pirque|RAK2470_SE_Riles"
   },
+  "ac1f09fffe206b22": {
+    "dias": {
+      "2026-09-08": "Conectado"
+    },
+    "nombre": "San Javier|RAK2470_Flujometro"
+  },
   "ac1f09fffe206b2b": {
     "dias": {
       "2026-08-27": "Conectado",
@@ -3249,6 +3273,12 @@
       "2026-09-08": "Conectado"
     },
     "nombre": "Pirque|RAK2470_SE_Casona"
+  },
+  "ac1f09fffe206ba0": {
+    "dias": {
+      "2026-09-08": "Conectado"
+    },
+    "nombre": "San Javier|RAK2470_SE3"
   },
   "ac1f09fffe206bc0": {
     "dias": {
