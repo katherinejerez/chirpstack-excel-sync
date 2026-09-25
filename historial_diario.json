@@ -17,7 +17,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Lourdes|RAK2470_Bombas_Nivel_Pozo"
   },
@@ -71,7 +72,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Cono Sur|RAK2470_Compresores"
   },
@@ -140,7 +142,8 @@
       "2026-09-21": "Desconectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Puente Alto|RAK2470_Sala_Maquinas_2"
   },
@@ -194,7 +197,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Lontue|RAK2470_SE4"
   },
@@ -222,7 +226,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Pirque|RAK2470_Kaeser_2"
   },
@@ -276,7 +281,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Lontue|RAK2470_SE10"
   },
@@ -345,7 +351,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Desconectado",
-      "2026-09-24": "Desconectado"
+      "2026-09-24": "Desconectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Nueva Aurora|RAK2470_SE3"
   },
@@ -414,7 +421,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Desconectado",
-      "2026-09-24": "Desconectado"
+      "2026-09-24": "Desconectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Nueva Aurora|RAK2470_Energia_Pozo"
   },
@@ -483,7 +491,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Cono Sur|RAK2470_York_2022"
   },
@@ -552,7 +561,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Vespucio|RAK2470_Osmosis_Flujo"
   },
@@ -621,7 +631,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Desconectado",
-      "2026-09-24": "Desconectado"
+      "2026-09-24": "Desconectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Nueva Aurora|Subestación 1"
   },
@@ -690,7 +701,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Desconectado",
-      "2026-09-24": "Desconectado"
+      "2026-09-24": "Desconectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Nueva Aurora|Subestación 2"
   },
@@ -759,7 +771,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Desconectado",
-      "2026-09-24": "Desconectado"
+      "2026-09-24": "Desconectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Nueva Aurora|RAK2470_Flujometro"
   },
@@ -828,7 +841,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Chimbarongo|RAK2470_SE2"
   },
@@ -882,7 +896,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Desconectado",
-      "2026-09-24": "Desconectado"
+      "2026-09-24": "Desconectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Limari|RAK2470_SE2"
   },
@@ -936,7 +951,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Desconectado",
-      "2026-09-24": "Desconectado"
+      "2026-09-24": "Desconectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Limari|RAK2470_SE1"
   },
@@ -1005,7 +1021,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Cono Sur|RAK2470_SE4"
   },
@@ -1074,7 +1091,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Cono Sur|RAK2470_York_2019_Mitsubishi"
   },
@@ -1143,7 +1161,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Cono Sur|RAK2470_Parabolico_1"
   },
@@ -1212,7 +1231,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Vespucio|RAK2470_Bombas"
   },
@@ -1231,7 +1251,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Lourdes|se1_b1_v2"
   },
@@ -1285,7 +1306,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Lontue|RAK2470_SE8"
   },
@@ -1354,7 +1376,8 @@
       "2026-09-21": "Desconectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Puente Alto|RAK2470_Sala_Maquinas_1"
   },
@@ -1408,7 +1431,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Lontue|RAK2470_SE5"
   },
@@ -1477,7 +1501,8 @@
       "2026-09-21": "Desconectado",
       "2026-09-22": "Desconectado",
       "2026-09-23": "Desconectado",
-      "2026-09-24": "Desconectado"
+      "2026-09-24": "Desconectado",
+      "2026-09-25": "Desconectado"
     },
     "nombre": "Chimbarongo|RAK2470_York_Chico"
   },
@@ -1503,7 +1528,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Pirque|RAK2470_Bombas_Pozo"
   },
@@ -1556,7 +1582,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Lontue|RAK2470_Estabilizador_2"
   },
@@ -1578,7 +1605,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Lourdes|RAK2470_York_B1"
   },
@@ -1631,7 +1659,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Lontue|RAK2470_York"
   },
@@ -1700,7 +1729,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Desconectado"
+      "2026-09-24": "Desconectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Vespucio|RAK2461_Nivel_Pozo"
   },
@@ -1720,7 +1750,8 @@
       "2026-09-21": "Desconectado",
       "2026-09-22": "Desconectado",
       "2026-09-23": "Desconectado",
-      "2026-09-24": "Desconectado"
+      "2026-09-24": "Desconectado",
+      "2026-09-25": "Desconectado"
     },
     "nombre": "San Javier|RAK2461_Climaveneta_EAG-0030V2"
   },
@@ -1747,7 +1778,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Pirque|RAK2461_Carrier_EAG-0009"
   },
@@ -1816,7 +1848,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Cono Sur|Subestación 1"
   },
@@ -1870,7 +1903,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Cono Sur|Subestación 1 Fotovoltaica"
   },
@@ -1939,7 +1973,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Cono Sur|Subestación 2"
   },
@@ -1993,7 +2028,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Cono Sur|Subestación 2 Fotovoltaica"
   },
@@ -2062,7 +2098,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Cono Sur|Subestación 3"
   },
@@ -2131,7 +2168,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Cono Sur|RAK2461_Climaveneta_ENF004"
   },
@@ -2153,7 +2191,8 @@
       "2026-09-21": "Desconectado",
       "2026-09-22": "Desconectado",
       "2026-09-23": "Desconectado",
-      "2026-09-24": "Desconectado"
+      "2026-09-24": "Desconectado",
+      "2026-09-25": "Desconectado"
     },
     "nombre": "Lourdes|RAK2461_Climaveneta_B1"
   },
@@ -2222,14 +2261,16 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Vespucio|RAK2461_Techo"
   },
   "ac1f09fffe1b3269": {
     "dias": {
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Cachapoal|RAK2470_SE5"
   },
@@ -2298,7 +2339,8 @@
       "2026-09-21": "Desconectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Puente Alto|RAK2461_SE1"
   },
@@ -2324,7 +2366,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Pirque|RAK2461_Climaveneta_EAG-0010"
   },
@@ -2393,7 +2436,8 @@
       "2026-09-21": "Desconectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Desconectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Vespucio|RAK2461_Calderas"
   },
@@ -2462,7 +2506,8 @@
       "2026-09-21": "Desconectado",
       "2026-09-22": "Desconectado",
       "2026-09-23": "Desconectado",
-      "2026-09-24": "Desconectado"
+      "2026-09-24": "Desconectado",
+      "2026-09-25": "Desconectado"
     },
     "nombre": "Puente Alto|RAK2461_Climaveneta_Frente"
   },
@@ -2531,7 +2576,8 @@
       "2026-09-21": "Desconectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Puente Alto|RAK2461_Flujo_Bodega"
   },
@@ -2600,13 +2646,15 @@
       "2026-09-21": "Desconectado",
       "2026-09-22": "Desconectado",
       "2026-09-23": "Desconectado",
-      "2026-09-24": "Desconectado"
+      "2026-09-24": "Desconectado",
+      "2026-09-25": "Desconectado"
     },
     "nombre": "Vespucio|RAK2461_Agua_Blanda"
   },
   "ac1f09fffe1b3292": {
     "dias": {
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Cachapoal|RAK2461_Climaveneta_EAG-00"
   },
@@ -2660,7 +2708,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Lontue|RAK2461_SE14"
   },
@@ -2714,14 +2763,16 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Lontue|RAK2461_Climaveneta_EAG0045"
   },
   "ac1f09fffe1b329e": {
     "dias": {
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Cachapoal|RAK2461_Climaveneta_EAG-0015"
   },
@@ -2790,7 +2841,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Desconectado",
-      "2026-09-24": "Desconectado"
+      "2026-09-24": "Desconectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Nueva Aurora|RAK2461_SE4"
   },
@@ -2859,7 +2911,8 @@
       "2026-09-21": "Desconectado",
       "2026-09-22": "Desconectado",
       "2026-09-23": "Desconectado",
-      "2026-09-24": "Desconectado"
+      "2026-09-24": "Desconectado",
+      "2026-09-25": "Desconectado"
     },
     "nombre": "Puente Alto|RAK2461_Don_Melchor"
   },
@@ -2879,7 +2932,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "San Javier|RAK2461_Climaveneta_EAG-0026"
   },
@@ -2898,7 +2952,8 @@
       "2026-09-21": "Desconectado",
       "2026-09-22": "Desconectado",
       "2026-09-23": "Desconectado",
-      "2026-09-24": "Desconectado"
+      "2026-09-24": "Desconectado",
+      "2026-09-25": "Desconectado"
     },
     "nombre": "Lontue|RAK2461_Flujometros_Prensas"
   },
@@ -2952,7 +3007,8 @@
       "2026-09-21": "Desconectado",
       "2026-09-22": "Desconectado",
       "2026-09-23": "Desconectado",
-      "2026-09-24": "Desconectado"
+      "2026-09-24": "Desconectado",
+      "2026-09-25": "Desconectado"
     },
     "nombre": "Limari|RAK2461_Climaveneta_Mitsubishi"
   },
@@ -3021,14 +3077,16 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Chimbarongo|RAK2461_Energia_Decanters"
   },
   "ac1f09fffe1b32bf": {
     "dias": {
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Cachapoal|RAK2461_Fotovoltaica"
   },
@@ -3082,7 +3140,8 @@
       "2026-09-21": "Desconectado",
       "2026-09-22": "Desconectado",
       "2026-09-23": "Desconectado",
-      "2026-09-24": "Desconectado"
+      "2026-09-24": "Desconectado",
+      "2026-09-25": "Desconectado"
     },
     "nombre": "Puente Alto|RAK2461_Climaveneta_Frente_2"
   },
@@ -3136,7 +3195,8 @@
       "2026-09-21": "Desconectado",
       "2026-09-22": "Desconectado",
       "2026-09-23": "Desconectado",
-      "2026-09-24": "Desconectado"
+      "2026-09-24": "Desconectado",
+      "2026-09-25": "Desconectado"
     },
     "nombre": "Limari|RAK2461_Della_Toffola_Mitsubishi"
   },
@@ -3170,7 +3230,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Chimbarongo|RAK2461_York_Glicol"
   },
@@ -3239,7 +3300,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Chimbarongo|RAK2461_SE1_Flujo"
   },
@@ -3265,13 +3327,15 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Pirque|RAK2461_Climaveneta_EAG-0011"
   },
   "ac1f09fffe1ce6c5": {
     "dias": {
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Cachapoal|RAK2461_SE7_Bombas"
   },
@@ -3325,7 +3389,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Lontue|RAK2461_SE6_7"
   },
@@ -3347,7 +3412,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "San Javier|RAK2461_SE4"
   },
@@ -3401,9 +3467,16 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Lontue|RAK2461_SE_Casino"
+  },
+  "ac1f09fffe1ce6d7": {
+    "dias": {
+      "2026-09-25": "Conectado"
+    },
+    "nombre": "Lolol|RAK2461_SE1_2"
   },
   "ac1f09fffe1ce6e0": {
     "dias": {
@@ -3470,7 +3543,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Cono Sur|RAK2461_SE5"
   },
@@ -3524,7 +3598,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Lontue|RAK2461_Climaveneta_EAG0043"
   },
@@ -3578,7 +3653,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Lontue|RAK2461_Climaveneta_EAG0017"
   },
@@ -3600,14 +3676,16 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Lourdes|RAK2461_Medidor_B2"
   },
   "ac1f09fffe1ce6f7": {
     "dias": {
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Cachapoal|RAK2461_SE13_Energia_York"
   },
@@ -3660,20 +3738,23 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Lontue|RAK2461_Caldera"
   },
   "ac1f09fffe1ce705": {
     "dias": {
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Cachapoal|RAK2461_SE2_SE3"
   },
   "ac1f09fffe1ce70b": {
     "dias": {
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Cachapoal|RAK2461_Climaveneta_EAG-0014"
   },
@@ -3742,7 +3823,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Desconectado",
-      "2026-09-24": "Desconectado"
+      "2026-09-24": "Desconectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Nueva Aurora|RAK2461_Medidores_Y_Nivel"
   },
@@ -3769,7 +3851,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Pirque|RAK2461_Climaveneta_SE6 "
   },
@@ -3838,7 +3921,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Cono Sur|RAK2461_Climaveneta_2007"
   },
@@ -3874,7 +3958,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Pirque|RAK2461_SE1"
   },
@@ -3900,7 +3985,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Pirque|RAK2461_Flujometro_Nivel"
   },
@@ -3922,7 +4008,8 @@
       "2026-09-21": "Desconectado",
       "2026-09-22": "Desconectado",
       "2026-09-23": "Desconectado",
-      "2026-09-24": "Desconectado"
+      "2026-09-24": "Desconectado",
+      "2026-09-25": "Desconectado"
     },
     "nombre": "San Javier|RAK2461_Climaveneta_EAG0030"
   },
@@ -3976,13 +4063,15 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Lontue|RAK2461_Estanque_Bombas"
   },
   "ac1f09fffe1ce743": {
     "dias": {
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Cachapoal|RAK2461_Nave3_Fotovoltaica3"
   },
@@ -4051,7 +4140,8 @@
       "2026-09-21": "Desconectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Desconectado",
-      "2026-09-24": "Desconectado"
+      "2026-09-24": "Desconectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Nueva Aurora|RAK2461_York"
   },
@@ -4105,7 +4195,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Lontue|RAK2461_Climaveneta_EAG0044"
   },
@@ -4174,9 +4265,16 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Cono Sur|RAK2461_Climaveneta_2015"
+  },
+  "ac1f09fffe1ce74e": {
+    "dias": {
+      "2026-09-25": "Conectado"
+    },
+    "nombre": "Peralillo|RAK2461_SE1"
   },
   "ac1f09fffe1ce752": {
     "dias": {
@@ -4228,7 +4326,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Lontue|RAK2461_Agua_Camiones"
   },
@@ -4248,7 +4347,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "San Javier|RAK2461_Climaveneta_EAG-0029"
   },
@@ -4276,14 +4376,16 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Pirque|RAK2461_Kaeser_1"
   },
   "ac1f09fffe1ce763": {
     "dias": {
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Cachapoal|RAK2461_Climaveneta_EAG-0013"
   },
@@ -4305,7 +4407,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Lourdes|RAK2461_Flujometro_B1"
   },
@@ -4325,7 +4428,8 @@
       "2026-09-21": "Desconectado",
       "2026-09-22": "Desconectado",
       "2026-09-23": "Desconectado",
-      "2026-09-24": "Desconectado"
+      "2026-09-24": "Desconectado",
+      "2026-09-25": "Desconectado"
     },
     "nombre": "San Javier|RAK2461_Climaveneta_EAG-0034"
   },
@@ -4374,13 +4478,15 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Lontue|RAK2461_Estabilizador_1"
   },
   "ac1f09fffe1ce775": {
     "dias": {
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Cachapoal|RAK2461_SE8"
   },
@@ -4434,7 +4540,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Lontue|RAK2461_Climaveneta_EAG0049"
   },
@@ -4503,7 +4610,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Cono Sur|RAK2461_Centrifuga"
   },
@@ -4525,7 +4633,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "San Javier|RAK2470_SE1"
   },
@@ -4552,15 +4661,23 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Pirque|RAK2470_SE7"
   },
   "ac1f09fffe206866": {
     "dias": {
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Cachapoal|RAK2470_Flujometro_Nivel"
+  },
+  "ac1f09fffe206870": {
+    "dias": {
+      "2026-09-25": "Conectado"
+    },
+    "nombre": "Peralillo|RAK2470_Medidor_Pozo"
   },
   "ac1f09fffe206884": {
     "dias": {
@@ -4586,7 +4703,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Pirque|RAK2470_SE4"
   },
@@ -4606,15 +4724,23 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "San Javier|RAK2470_SE2"
   },
   "ac1f09fffe206897": {
     "dias": {
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Cachapoal|RAK2470_SE11"
+  },
+  "ac1f09fffe2068ac": {
+    "dias": {
+      "2026-09-25": "Desconectado"
+    },
+    "nombre": "Peralillo|RAK2470_Climaveneta_EAG-00"
   },
   "ac1f09fffe2068ad": {
     "dias": {
@@ -4632,13 +4758,15 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "San Javier|RAK2470_SE5"
   },
   "ac1f09fffe2068b9": {
     "dias": {
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Cachapoal|RAK2470_SE1"
   },
@@ -4692,7 +4820,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Lontue|RAK2470_Riles"
   },
@@ -4714,7 +4843,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Lourdes|RAK2470_SE1_B2"
   },
@@ -4736,7 +4866,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Lourdes|RAK2470_SE2_SE3_B2"
   },
@@ -4763,7 +4894,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Pirque|RAK2470_SE5"
   },
@@ -4789,20 +4921,23 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Pirque|RAK2470_SE_Visitas"
   },
   "ac1f09fffe206911": {
     "dias": {
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Cachapoal|RAK2470_SE9"
   },
   "ac1f09fffe206913": {
     "dias": {
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Cachapoal|RAK2470_York_1"
   },
@@ -4828,7 +4963,8 @@
       "2026-09-21": "Desconectado",
       "2026-09-22": "Desconectado",
       "2026-09-23": "Desconectado",
-      "2026-09-24": "Desconectado"
+      "2026-09-24": "Desconectado",
+      "2026-09-25": "Desconectado"
     },
     "nombre": "Pirque|RAK2470_Mayekawa"
   },
@@ -4881,7 +5017,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Lontue|RAK2470_SE1"
   },
@@ -4903,7 +5040,8 @@
       "2026-09-21": "Desconectado",
       "2026-09-22": "Desconectado",
       "2026-09-23": "Desconectado",
-      "2026-09-24": "Desconectado"
+      "2026-09-24": "Desconectado",
+      "2026-09-25": "Desconectado"
     },
     "nombre": "Lourdes|RAK2470_SE1_B1"
   },
@@ -4930,7 +5068,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Pirque|RAK2470_SE_Riles"
   },
@@ -4952,7 +5091,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "San Javier|RAK2470_Flujometro"
   },
@@ -4986,7 +5126,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Chimbarongo|RAK2470_Bombas_Nivel_Pozo"
   },
@@ -5013,7 +5154,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Pirque|RAK2470_SE6"
   },
@@ -5041,7 +5183,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Pirque|RAK2470_SE3"
   },
@@ -5067,27 +5210,31 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Pirque|RAK2470_SE_Casona"
   },
   "ac1f09fffe206b53": {
     "dias": {
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Cachapoal|RAK2470_York_2"
   },
   "ac1f09fffe206b7a": {
     "dias": {
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Cachapoal|RAK2470_SE5B_Fotovoltaico"
   },
   "ac1f09fffe206b97": {
     "dias": {
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Cachapoal|RAK2470_SE4"
   },
@@ -5109,7 +5256,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "San Javier|RAK2470_SE3"
   },
@@ -5131,7 +5279,8 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Lourdes|RAK2470_York_B2"
   },
@@ -5151,13 +5300,15 @@
       "2026-09-21": "Conectado",
       "2026-09-22": "Conectado",
       "2026-09-23": "Conectado",
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "San Javier|RAK2470_SE6"
   },
   "ac1f09fffe206bcf": {
     "dias": {
-      "2026-09-24": "Conectado"
+      "2026-09-24": "Conectado",
+      "2026-09-25": "Conectado"
     },
     "nombre": "Cachapoal|RAK2470_SE6"
   }
