@@ -2,151 +2,151 @@
   {
     "id": "Cachapoal|RAK2461_Climaveneta_EAG-00",
     "fecha": "2026-09-29",
-    "hora": "19:03:06",
+    "hora": "22:03:44",
     "status": "Conectado"
   },
   {
     "id": "Cachapoal|RAK2461_Climaveneta_EAG-0013",
     "fecha": "2026-09-29",
-    "hora": "19:03:04",
+    "hora": "22:04:05",
     "status": "Conectado"
   },
   {
     "id": "Cachapoal|RAK2461_Climaveneta_EAG-0014",
     "fecha": "2026-09-29",
-    "hora": "19:03:03",
+    "hora": "22:03:41",
     "status": "Conectado"
   },
   {
     "id": "Cachapoal|RAK2461_Climaveneta_EAG-0015",
     "fecha": "2026-09-29",
-    "hora": "19:03:00",
+    "hora": "22:03:28",
     "status": "Conectado"
   },
   {
     "id": "Cachapoal|RAK2461_Fotovoltaica",
     "fecha": "2026-09-29",
-    "hora": "19:03:07",
+    "hora": "22:04:05",
     "status": "Conectado"
   },
   {
     "id": "Cachapoal|RAK2461_Nave3_Fotovoltaica3",
     "fecha": "2026-09-29",
-    "hora": "19:03:04",
+    "hora": "22:03:54",
     "status": "Conectado"
   },
   {
     "id": "Cachapoal|RAK2461_SE13_Energia_York",
     "fecha": "2026-09-29",
-    "hora": "19:03:01",
+    "hora": "22:04:06",
     "status": "Conectado"
   },
   {
     "id": "Cachapoal|RAK2461_SE2_SE3",
     "fecha": "2026-09-29",
-    "hora": "19:02:59",
+    "hora": "22:03:46",
     "status": "Conectado"
   },
   {
     "id": "Cachapoal|RAK2461_SE7_Bombas",
     "fecha": "2026-09-29",
-    "hora": "19:02:58",
+    "hora": "22:03:43",
     "status": "Conectado"
   },
   {
     "id": "Cachapoal|RAK2461_SE8",
     "fecha": "2026-09-29",
-    "hora": "19:03:01",
+    "hora": "22:03:59",
     "status": "Conectado"
   },
   {
     "id": "Cachapoal|RAK2470_Flujometro_Nivel",
     "fecha": "2026-09-29",
-    "hora": "19:02:27",
+    "hora": "22:03:52",
     "status": "Conectado"
   },
   {
     "id": "Cachapoal|RAK2470_SE1",
     "fecha": "2026-09-29",
-    "hora": "19:02:41",
+    "hora": "22:04:03",
     "status": "Conectado"
   },
   {
     "id": "Cachapoal|RAK2470_SE11",
     "fecha": "2026-09-29",
-    "hora": "19:02:59",
+    "hora": "22:04:01",
     "status": "Conectado"
   },
   {
     "id": "Cachapoal|RAK2470_SE4",
     "fecha": "2026-09-29",
-    "hora": "19:02:43",
+    "hora": "22:04:05",
     "status": "Conectado"
   },
   {
     "id": "Cachapoal|RAK2470_SE5",
     "fecha": "2026-09-29",
-    "hora": "19:03:04",
+    "hora": "22:04:09",
     "status": "Conectado"
   },
   {
     "id": "Cachapoal|RAK2470_SE5B_Fotovoltaico",
     "fecha": "2026-09-29",
-    "hora": "19:03:07",
+    "hora": "22:03:58",
     "status": "Conectado"
   },
   {
     "id": "Cachapoal|RAK2470_SE6",
     "fecha": "2026-09-29",
-    "hora": "19:03:03",
+    "hora": "22:04:01",
     "status": "Conectado"
   },
   {
     "id": "Cachapoal|RAK2470_SE9",
     "fecha": "2026-09-29",
-    "hora": "19:02:45",
+    "hora": "22:04:07",
     "status": "Conectado"
   },
   {
     "id": "Cachapoal|RAK2470_York_1",
     "fecha": "2026-09-29",
-    "hora": "19:02:45",
+    "hora": "22:03:23",
     "status": "Conectado"
   },
   {
     "id": "Cachapoal|RAK2470_York_2",
     "fecha": "2026-09-29",
-    "hora": "19:02:45",
+    "hora": "22:03:23",
     "status": "Conectado"
   },
   {
     "id": "Chimbarongo|RAK2461_Energia_Decanters",
     "fecha": "2026-09-29",
-    "hora": "19:02:57",
+    "hora": "22:04:03",
     "status": "Conectado"
   },
   {
     "id": "Chimbarongo|RAK2461_SE1_Flujo",
     "fecha": "2026-09-29",
-    "hora": "19:03:03",
+    "hora": "22:03:46",
     "status": "Conectado"
   },
   {
     "id": "Chimbarongo|RAK2461_York_Glicol",
     "fecha": "2026-09-29",
-    "hora": "19:03:02",
+    "hora": "22:04:04",
     "status": "Conectado"
   },
   {
     "id": "Chimbarongo|RAK2470_Bombas_Nivel_Pozo",
     "fecha": "2026-09-29",
-    "hora": "19:03:08",
+    "hora": "22:02:53",
     "status": "Conectado"
   },
   {
     "id": "Chimbarongo|RAK2470_SE2",
     "fecha": "2026-09-29",
-    "hora": "19:02:41",
+    "hora": "22:03:24",
     "status": "Conectado"
   },
   {
@@ -158,91 +158,91 @@
   {
     "id": "Cono Sur|RAK2461_Centrifuga",
     "fecha": "2026-09-29",
-    "hora": "19:03:09",
+    "hora": "22:03:56",
     "status": "Conectado"
   },
   {
     "id": "Cono Sur|RAK2461_Climaveneta_2007",
     "fecha": "2026-09-29",
-    "hora": "19:01:31",
+    "hora": "22:03:47",
     "status": "Conectado"
   },
   {
     "id": "Cono Sur|RAK2461_Climaveneta_2015",
     "fecha": "2026-09-29",
-    "hora": "19:02:42",
+    "hora": "22:03:58",
     "status": "Conectado"
   },
   {
     "id": "Cono Sur|RAK2461_Climaveneta_ENF004",
     "fecha": "2026-09-29",
-    "hora": "19:03:03",
+    "hora": "22:03:46",
     "status": "Conectado"
   },
   {
     "id": "Cono Sur|Subestación 1",
     "fecha": "2026-09-29",
-    "hora": "19:03:08",
+    "hora": "22:04:09",
     "status": "Conectado"
   },
   {
     "id": "Cono Sur|Subestación 2",
     "fecha": "2026-09-29",
-    "hora": "19:03:08",
+    "hora": "22:04:09",
     "status": "Conectado"
   },
   {
     "id": "Cono Sur|Subestación 3",
     "fecha": "2026-09-29",
-    "hora": "19:03:08",
+    "hora": "22:04:09",
     "status": "Conectado"
   },
   {
     "id": "Cono Sur|Subestación 1 Fotovoltaica",
     "fecha": "2026-09-29",
-    "hora": "19:03:08",
+    "hora": "22:04:09",
     "status": "Conectado"
   },
   {
     "id": "Cono Sur|Subestación 2 Fotovoltaica",
     "fecha": "2026-09-29",
-    "hora": "19:03:08",
+    "hora": "22:04:09",
     "status": "Conectado"
   },
   {
     "id": "Cono Sur|RAK2461_SE5",
     "fecha": "2026-09-29",
-    "hora": "19:02:30",
+    "hora": "22:02:44",
     "status": "Conectado"
   },
   {
     "id": "Cono Sur|RAK2470_Compresores",
     "fecha": "2026-09-29",
-    "hora": "19:02:48",
+    "hora": "22:03:55",
     "status": "Conectado"
   },
   {
     "id": "Cono Sur|RAK2470_Parabolico_1",
     "fecha": "2026-09-29",
-    "hora": "19:00:41",
+    "hora": "22:00:35",
     "status": "Conectado"
   },
   {
     "id": "Cono Sur|RAK2470_SE4",
     "fecha": "2026-09-29",
-    "hora": "19:02:41",
+    "hora": "22:04:01",
     "status": "Conectado"
   },
   {
     "id": "Cono Sur|RAK2470_York_2019_Mitsubishi",
     "fecha": "2026-09-29",
-    "hora": "19:03:01",
+    "hora": "22:04:05",
     "status": "Conectado"
   },
   {
     "id": "Cono Sur|RAK2470_York_2022",
     "fecha": "2026-09-29",
-    "hora": "18:58:59",
+    "hora": "22:03:34",
     "status": "Conectado"
   },
   {
@@ -260,73 +260,73 @@
   {
     "id": "Limari|RAK2470_SE1",
     "fecha": "2026-09-29",
-    "hora": "19:03:06",
+    "hora": "22:04:05",
     "status": "Conectado"
   },
   {
     "id": "Limari|RAK2470_SE2",
     "fecha": "2026-09-29",
-    "hora": "19:02:59",
+    "hora": "22:03:58",
     "status": "Conectado"
   },
   {
     "id": "Lolol|RAK2461_SE1_2",
     "fecha": "2026-09-29",
-    "hora": "19:03:09",
+    "hora": "22:03:55",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2461_Agua_Camiones",
     "fecha": "2026-09-29",
-    "hora": "19:01:27",
+    "hora": "22:04:03",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2461_Caldera",
     "fecha": "2026-09-29",
-    "hora": "18:58:57",
+    "hora": "22:02:27",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2461_Climaveneta_EAG0017",
     "fecha": "2026-09-29",
-    "hora": "19:02:42",
+    "hora": "22:03:57",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2461_Climaveneta_EAG0043",
     "fecha": "2026-09-29",
-    "hora": "19:02:55",
+    "hora": "22:04:10",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2461_Climaveneta_EAG0044",
     "fecha": "2026-09-29",
-    "hora": "19:03:08",
+    "hora": "22:04:04",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2461_Climaveneta_EAG0045",
     "fecha": "2026-09-29",
-    "hora": "19:03:06",
+    "hora": "22:04:10",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2461_Climaveneta_EAG0049",
     "fecha": "2026-09-29",
-    "hora": "19:02:52",
+    "hora": "22:04:07",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2461_Estabilizador_1",
     "fecha": "2026-09-29",
-    "hora": "19:02:53",
+    "hora": "22:03:54",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2461_Estanque_Bombas",
     "fecha": "2026-09-29",
-    "hora": "19:02:44",
+    "hora": "22:03:55",
     "status": "Conectado"
   },
   {
@@ -338,67 +338,67 @@
   {
     "id": "Lontue|RAK2461_SE14",
     "fecha": "2026-09-29",
-    "hora": "19:03:08",
+    "hora": "22:03:58",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2461_SE6_7",
     "fecha": "2026-09-29",
-    "hora": "19:03:09",
+    "hora": "22:04:10",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2461_SE_Casino",
     "fecha": "2026-09-29",
-    "hora": "19:02:45",
+    "hora": "22:04:06",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2470_Estabilizador_2",
     "fecha": "2026-09-29",
-    "hora": "19:02:59",
+    "hora": "22:03:35",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2470_Riles",
     "fecha": "2026-09-29",
-    "hora": "19:03:10",
+    "hora": "22:04:07",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2470_SE1",
     "fecha": "2026-09-29",
-    "hora": "19:02:39",
+    "hora": "22:03:59",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2470_SE10",
     "fecha": "2026-09-29",
-    "hora": "19:02:34",
+    "hora": "22:04:00",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2470_SE4",
     "fecha": "2026-09-29",
-    "hora": "19:03:04",
+    "hora": "22:03:40",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2470_SE5",
     "fecha": "2026-09-29",
-    "hora": "19:02:48",
+    "hora": "22:04:00",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2470_SE8",
     "fecha": "2026-09-29",
-    "hora": "19:02:31",
+    "hora": "22:04:05",
     "status": "Conectado"
   },
   {
     "id": "Lontue|RAK2470_York",
     "fecha": "2026-09-29",
-    "hora": "19:02:04",
+    "hora": "22:04:04",
     "status": "Conectado"
   },
   {
@@ -410,19 +410,19 @@
   {
     "id": "Lourdes|RAK2461_Flujometro_B1",
     "fecha": "2026-09-29",
-    "hora": "19:02:32",
+    "hora": "22:04:09",
     "status": "Conectado"
   },
   {
     "id": "Lourdes|RAK2461_Medidor_B2",
     "fecha": "2026-09-29",
-    "hora": "19:02:23",
+    "hora": "22:03:28",
     "status": "Conectado"
   },
   {
     "id": "Lourdes|RAK2470_Bombas_Nivel_Pozo",
     "fecha": "2026-09-29",
-    "hora": "19:03:00",
+    "hora": "22:04:08",
     "status": "Conectado"
   },
   {
@@ -434,115 +434,115 @@
   {
     "id": "Lourdes|RAK2470_SE1_B2",
     "fecha": "2026-09-29",
-    "hora": "19:02:46",
+    "hora": "22:04:07",
     "status": "Conectado"
   },
   {
     "id": "Lourdes|RAK2470_SE2_SE3_B2",
     "fecha": "2026-09-29",
-    "hora": "19:03:08",
+    "hora": "22:03:36",
     "status": "Conectado"
   },
   {
     "id": "Lourdes|RAK2470_York_B1",
     "fecha": "2026-09-29",
-    "hora": "19:03:09",
+    "hora": "22:03:59",
     "status": "Conectado"
   },
   {
     "id": "Lourdes|RAK2470_York_B2",
     "fecha": "2026-09-29",
-    "hora": "19:02:48",
+    "hora": "22:03:55",
     "status": "Conectado"
   },
   {
     "id": "Lourdes|se1_b1_v2",
     "fecha": "2026-09-29",
-    "hora": "19:03:05",
+    "hora": "22:04:06",
     "status": "Conectado"
   },
   {
     "id": "Nueva Aurora|RAK2461_Medidores_Y_Nivel",
     "fecha": "2026-09-29",
-    "hora": "19:03:08",
+    "hora": "22:03:54",
     "status": "Conectado"
   },
   {
     "id": "Nueva Aurora|RAK2461_SE4",
     "fecha": "2026-09-29",
-    "hora": "19:02:53",
+    "hora": "22:04:09",
     "status": "Conectado"
   },
   {
     "id": "Nueva Aurora|RAK2461_York",
     "fecha": "2026-09-29",
-    "hora": "19:02:55",
+    "hora": "22:04:04",
     "status": "Conectado"
   },
   {
     "id": "Nueva Aurora|RAK2470_Energia_Pozo",
     "fecha": "2026-09-29",
-    "hora": "19:03:06",
+    "hora": "22:04:06",
     "status": "Conectado"
   },
   {
     "id": "Nueva Aurora|RAK2470_Flujometro",
     "fecha": "2026-09-29",
-    "hora": "19:02:37",
+    "hora": "22:03:24",
     "status": "Conectado"
   },
   {
     "id": "Nueva Aurora|Subestación 1",
     "fecha": "2026-09-29",
-    "hora": "19:03:03",
+    "hora": "22:04:09",
     "status": "Conectado"
   },
   {
     "id": "Nueva Aurora|Subestación 2",
     "fecha": "2026-09-29",
-    "hora": "19:03:03",
+    "hora": "22:04:09",
     "status": "Conectado"
   },
   {
     "id": "Nueva Aurora|RAK2470_SE3",
     "fecha": "2026-09-29",
-    "hora": "19:02:50",
+    "hora": "22:03:57",
     "status": "Conectado"
   },
   {
     "id": "Peralillo|RAK2461_SE1",
     "fecha": "2026-09-29",
-    "hora": "19:03:07",
+    "hora": "22:04:09",
     "status": "Conectado"
   },
   {
     "id": "Peralillo|RAK2470_Climaveneta_EAG-00",
     "fecha": "2026-09-29",
-    "hora": "19:03:07",
+    "hora": "22:04:10",
     "status": "Conectado"
   },
   {
     "id": "Peralillo|RAK2470_Medidor_Pozo",
     "fecha": "2026-09-29",
-    "hora": "19:03:04",
+    "hora": "22:03:58",
     "status": "Conectado"
   },
   {
     "id": "Pirque|RAK2461_Carrier_EAG-0009",
     "fecha": "2026-09-29",
-    "hora": "19:02:55",
+    "hora": "22:03:38",
     "status": "Conectado"
   },
   {
     "id": "Pirque|RAK2461_Climaveneta_EAG-0010",
     "fecha": "2026-09-29",
-    "hora": "19:03:10",
+    "hora": "22:04:00",
     "status": "Conectado"
   },
   {
     "id": "Pirque|RAK2461_Climaveneta_EAG-0011",
     "fecha": "2026-09-29",
-    "hora": "19:03:10",
+    "hora": "22:04:07",
     "status": "Conectado"
   },
   {
@@ -554,31 +554,31 @@
   {
     "id": "Pirque|RAK2461_Flujometro_Nivel",
     "fecha": "2026-09-29",
-    "hora": "19:02:17",
+    "hora": "22:03:35",
     "status": "Conectado"
   },
   {
     "id": "Pirque|RAK2461_Kaeser_1",
     "fecha": "2026-09-29",
-    "hora": "19:01:20",
+    "hora": "22:00:05",
     "status": "Conectado"
   },
   {
     "id": "Pirque|RAK2461_SE1",
     "fecha": "2026-09-29",
-    "hora": "19:03:10",
+    "hora": "22:03:49",
     "status": "Conectado"
   },
   {
     "id": "Pirque|RAK2470_Bombas_Pozo",
     "fecha": "2026-09-29",
-    "hora": "19:02:48",
+    "hora": "22:03:38",
     "status": "Conectado"
   },
   {
     "id": "Pirque|RAK2470_Kaeser_2",
     "fecha": "2026-09-29",
-    "hora": "19:02:34",
+    "hora": "22:03:30",
     "status": "Conectado"
   },
   {
@@ -590,49 +590,49 @@
   {
     "id": "Pirque|RAK2470_SE3",
     "fecha": "2026-09-29",
-    "hora": "19:03:09",
+    "hora": "22:03:30",
     "status": "Conectado"
   },
   {
     "id": "Pirque|RAK2470_SE4",
     "fecha": "2026-09-29",
-    "hora": "19:02:25",
+    "hora": "22:03:37",
     "status": "Conectado"
   },
   {
     "id": "Pirque|RAK2470_SE5",
     "fecha": "2026-09-29",
-    "hora": "19:02:41",
+    "hora": "22:04:05",
     "status": "Conectado"
   },
   {
     "id": "Pirque|RAK2470_SE6",
     "fecha": "2026-09-29",
-    "hora": "19:03:05",
+    "hora": "22:04:07",
     "status": "Conectado"
   },
   {
     "id": "Pirque|RAK2470_SE7",
     "fecha": "2026-09-29",
-    "hora": "19:02:51",
+    "hora": "22:04:11",
     "status": "Conectado"
   },
   {
     "id": "Pirque|RAK2470_SE_Casona",
     "fecha": "2026-09-29",
-    "hora": "19:03:02",
+    "hora": "22:03:54",
     "status": "Conectado"
   },
   {
     "id": "Pirque|RAK2470_SE_Riles",
     "fecha": "2026-09-29",
-    "hora": "19:03:01",
+    "hora": "22:03:51",
     "status": "Conectado"
   },
   {
     "id": "Pirque|RAK2470_SE_Visitas",
     "fecha": "2026-09-29",
-    "hora": "19:02:18",
+    "hora": "22:03:20",
     "status": "Conectado"
   },
   {
@@ -656,37 +656,37 @@
   {
     "id": "Puente Alto|RAK2461_Flujo_Bodega",
     "fecha": "2026-09-29",
-    "hora": "19:02:44",
+    "hora": "22:04:06",
     "status": "Conectado"
   },
   {
     "id": "Puente Alto|RAK2461_SE1",
     "fecha": "2026-09-29",
-    "hora": "19:02:59",
+    "hora": "22:03:48",
     "status": "Conectado"
   },
   {
     "id": "Puente Alto|RAK2470_Sala_Maquinas_1",
     "fecha": "2026-09-29",
-    "hora": "19:02:25",
+    "hora": "22:03:25",
     "status": "Conectado"
   },
   {
     "id": "Puente Alto|RAK2470_Sala_Maquinas_2",
     "fecha": "2026-09-29",
-    "hora": "19:03:05",
+    "hora": "22:04:02",
     "status": "Conectado"
   },
   {
     "id": "San Javier|RAK2461_Climaveneta_EAG-0026",
     "fecha": "2026-09-29",
-    "hora": "19:03:05",
+    "hora": "22:03:57",
     "status": "Conectado"
   },
   {
     "id": "San Javier|RAK2461_Climaveneta_EAG-0029",
     "fecha": "2026-09-29",
-    "hora": "19:02:53",
+    "hora": "22:04:06",
     "status": "Conectado"
   },
   {
@@ -710,43 +710,43 @@
   {
     "id": "San Javier|RAK2461_SE4",
     "fecha": "2026-09-29",
-    "hora": "19:02:49",
+    "hora": "22:04:02",
     "status": "Conectado"
   },
   {
     "id": "San Javier|RAK2470_Flujometro",
     "fecha": "2026-09-29",
-    "hora": "19:02:59",
+    "hora": "22:03:51",
     "status": "Conectado"
   },
   {
     "id": "San Javier|RAK2470_SE1",
     "fecha": "2026-09-29",
-    "hora": "19:03:08",
+    "hora": "22:03:43",
     "status": "Conectado"
   },
   {
     "id": "San Javier|RAK2470_SE2",
     "fecha": "2026-09-29",
-    "hora": "19:03:08",
+    "hora": "22:03:55",
     "status": "Conectado"
   },
   {
     "id": "San Javier|RAK2470_SE3",
     "fecha": "2026-09-29",
-    "hora": "19:03:04",
+    "hora": "22:03:47",
     "status": "Conectado"
   },
   {
     "id": "San Javier|RAK2470_SE5",
     "fecha": "2026-09-29",
-    "hora": "19:03:08",
+    "hora": "22:04:04",
     "status": "Conectado"
   },
   {
     "id": "San Javier|RAK2470_SE6",
     "fecha": "2026-09-29",
-    "hora": "19:02:59",
+    "hora": "22:03:49",
     "status": "Conectado"
   },
   {
@@ -758,31 +758,31 @@
   {
     "id": "Vespucio|RAK2461_Calderas",
     "fecha": "2026-09-29",
-    "hora": "18:55:53",
-    "status": "Desconectado"
+    "hora": "22:03:55",
+    "status": "Conectado"
   },
   {
     "id": "Vespucio|RAK2461_Nivel_Pozo",
     "fecha": "2026-09-29",
-    "hora": "19:02:41",
+    "hora": "22:02:41",
     "status": "Conectado"
   },
   {
     "id": "Vespucio|RAK2461_Techo",
     "fecha": "2026-09-29",
-    "hora": "19:02:50",
+    "hora": "22:03:51",
     "status": "Conectado"
   },
   {
     "id": "Vespucio|RAK2470_Bombas",
     "fecha": "2026-09-29",
-    "hora": "19:03:01",
+    "hora": "22:04:09",
     "status": "Conectado"
   },
   {
     "id": "Vespucio|RAK2470_Osmosis_Flujo",
     "fecha": "2026-09-29",
-    "hora": "19:02:57",
+    "hora": "22:03:08",
     "status": "Conectado"
   }
 ]
